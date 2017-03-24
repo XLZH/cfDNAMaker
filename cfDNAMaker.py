@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 '''
 CFDNAMarker
+Author: XiaolongZhang
 modify: 2017-03-01
 Inputs:
     A position-sorted paired-end BAM file containing reads with a duplex tag in the header.
